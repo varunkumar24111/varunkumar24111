@@ -19,9 +19,9 @@ Email Me 👉 ✉️ **varunk.info24@gmail.com** For any enqiry. 😊😊
 
 <!-- Snake Game Repo View -->
 
-<!--<div align="center"> -->
-  <!--<img src="https://drive.google.com/file/d/16YjckRDyhq2LLJIxIiJlr4tVMmdtZ8JQ/view?usp=sharing" alt="Varun Dashboard" /> -->
-<!--</div> -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8789dc59-3c0d-48b1-bd2c-3c376972d716" alt="Varun Dashboard" />
+</div>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
