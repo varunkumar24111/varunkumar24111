@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **varunk.info24@gmail.com** For any enqiry. 😊😊
 - 🌱 **I’m currently learning:** Tableau
 - 🤔 **I’m looking for help with:** New Job Opportunity
 - 📫 **How to reach me:** varunk.info24@gmail.com
-- 😄 **Pronouns:** Varun
+- 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** Rolling up my sleeves and my projects.
 
   
