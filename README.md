@@ -59,15 +59,21 @@ Email Me 👉 ✉️ **varunk.info24@gmail.com** for any enquiry. 😊😊
 ### ✍️ Random Technical Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
-
-
-<div style="overflow-x: auto;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+<p align="center">
+  <img 
+       src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" 
+       alt="Random Quote"
+       width="400" />
+</p>
+
+
+<picture>
+  <source media="(max-width: 600px)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</picture>
+
 
 
 
