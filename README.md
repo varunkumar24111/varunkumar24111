@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Varun Kumar
 **A passionate Data Developer || Data Analyst || Power BI Developer from Canada**
 
-Email Me 👉 ✉️ **varunk.info24@gmail.com** For any enqiry. 😊😊
+Email Me 👉 ✉️ **varunk.info24@gmail.com** for any enquiry. 😊😊
 
 - 🔭 **I’m currently working on:** Power BI Dashboards and SQL Projects
 - 🌱 **I’m currently learning:** Tableau
