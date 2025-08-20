@@ -57,24 +57,9 @@ Email Me 👉 ✉️ **varunk.info24@gmail.com** for any enquiry. 😊😊
 ![](https://github-profile-trophy.vercel.app/?username=varunkumar24111&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Technical Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-<p align="center">
-  <img 
-       src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" 
-       alt="Random Quote"
-       width="400" />
-</p>
-
-
-<picture>
-  <source media="(max-width: 600px)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</picture>
-
-
 
 
 ### 🔝 Top Contributed Repo
