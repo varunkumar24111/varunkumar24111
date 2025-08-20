@@ -56,8 +56,20 @@ Email Me 👉 ✉️ **varunk.info24@gmail.com** for any enquiry. 😊😊
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=varunkumar24111&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Technical Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
+
+
+<div style="overflow-x: auto;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=varunkumar24111&limit=5&theme=dark&combine_all_yearly_contributions=true)
